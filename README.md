@@ -8,3 +8,5 @@ In the directory, the images of the faces should be stored in order of the regis
 Additionally, there should be a text file containing a list of student names, in register order. The names should be separated with a linebreak. 
 
 Using the face_recognition library may require the use of linux. The program also uses opencv, a library used for computer vision. 
+
+To run the program, simply run the 'Main.py' file. 
